@@ -2,8 +2,24 @@ html body {
     margin: 0;
     padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(221, 226, 223);
 }
 
 h1 {
     font-size: 2em;
+    text-align: center;
+}
+
+text {
+    text-align: center;
+    font-size: 1.6em;
+}
+
+ul {
+    width: 50%;
+    margin: auto;
+    padding: 2em;
+    background-color: rgba(0, 195, 255, 0.5);
+    list-style-type: disclosure-closed;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
