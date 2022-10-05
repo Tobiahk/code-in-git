@@ -10,7 +10,7 @@ h1 {
     text-align: center;
 }
 
-text {
+p {
     text-align: center;
     font-size: 1.6em;
 }
@@ -19,7 +19,7 @@ ul {
     width: 50%;
     margin: auto;
     padding: 2em;
-    background-color: rgba(0, 195, 255, 0.5);
+    background-color: rgba(226, 148, 250, 0.733);
     list-style-type: disclosure-closed;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
